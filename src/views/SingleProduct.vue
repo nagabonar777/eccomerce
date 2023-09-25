@@ -8,7 +8,7 @@
             <div class="lg:flex lg:items-start">
               <div class="lg:order-2 lg:ml-5">
                 <div class="max-w-xl overflow-hidden rounded-lg">
-                  <img class="h-full w-full max-w-full object-cover" src="https://ecommerce.olipiskandar.com/public/uploads/all/UpUx213sXC5XBW07vbXn1vkWMWxTu95CDDbMzwkF.jpg" alt="" />
+                  <img class="h-full w-full max-w-full object-cover" src="https://media.istockphoto.com/id/1226386279/id/vektor/vector-double-line-alternatif-logo-letter-c.jpg?s=170667a&w=0&k=20&c=9qUpYJuCoYryLsJdNFjrF1ivxcqJ__Cq7XeCAtTBvhY=" alt="" />
                 </div>
               </div>
 
@@ -16,15 +16,15 @@
                 <div class="flex flex-row items-start lg:flex-col">
                   <button type="button"
                     class="flex-0 aspect-square mb-3 h-20 overflow-hidden rounded-lg border-2 border-gray-900 text-center">
-                    <img class="h-full w-full object-cover" src="https://img.freepik.com/free-vector/ecommerce-web-page-concept-illustration_114360-8204.jpg?w=740&t=st=1693374100~exp=1693374700~hmac=fa680fc32daaa8a6a6cf52b97c20e26a37082c180994e66e4b75f274b599a05f" alt="" />
+                    <img class="h-full w-full object-cover" src="https://media.istockphoto.com/id/1226386279/id/vektor/vector-double-line-alternatif-logo-letter-c.jpg?s=170667a&w=0&k=20&c=9qUpYJuCoYryLsJdNFjrF1ivxcqJ__Cq7XeCAtTBvhY=" alt="" />
                   </button>
                   <button type="button"
                     class="flex-0 aspect-square mb-3 h-20 overflow-hidden rounded-lg border-2 border-transparent text-center">
-                    <img class="h-full w-full object-cover" src="https://img.freepik.com/free-vector/ecommerce-web-page-concept-illustration_114360-8204.jpg?w=740&t=st=1693374100~exp=1693374700~hmac=fa680fc32daaa8a6a6cf52b97c20e26a37082c180994e66e4b75f274b599a05f" alt="" />
+                    <img class="h-full w-full object-cover" src="https://media.istockphoto.com/id/1226386279/id/vektor/vector-double-line-alternatif-logo-letter-c.jpg?s=170667a&w=0&k=20&c=9qUpYJuCoYryLsJdNFjrF1ivxcqJ__Cq7XeCAtTBvhY=" alt="" />
                   </button>
                   <button type="button"
                     class="flex-0 aspect-square mb-3 h-20 overflow-hidden rounded-lg border-2 border-transparent text-center">
-                    <img class="h-full w-full object-cover" src="https://img.freepik.com/free-vector/ecommerce-web-page-concept-illustration_114360-8204.jpg?w=740&t=st=1693374100~exp=1693374700~hmac=fa680fc32daaa8a6a6cf52b97c20e26a37082c180994e66e4b75f274b599a05f" alt="" />
+                    <img class="h-full w-full object-cover" src="https://media.istockphoto.com/id/1226386279/id/vektor/vector-double-line-alternatif-logo-letter-c.jpg?s=170667a&w=0&k=20&c=9qUpYJuCoYryLsJdNFjrF1ivxcqJ__Cq7XeCAtTBvhY=" alt="" />
                   </button>
                 </div>
               </div>
