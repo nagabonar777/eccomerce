@@ -34,14 +34,14 @@
     <!-- Right Column -->
     <div class="flex h-full w-full space-x-3 overflow-hidden md:justify-end">
       <!-- Col 2 -->
-      <div class="hidden w-56 items-center space-y-3 lg:flex lg:w-80">
-        <div class="h-40 overflow-hidden rounded-xl bg-yellow-600">
-          <img class="mx-auto h-full w-full object-cover" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2rWNVTZlpPYUOwSITUxaQH98_CSCInzxP0JrwhePA6TpBqcjXp2U6Sn4Oe9jvFZrCBUq2UgcDMOR64xbC5wX6lfQCBiudMR-pdfqS_OVBGNru3f6qg8wek89adYljZzqnvyL4CowaRvNIfIB9UME_pZ1iZYrjJ7nan-Y-y_Iy1N_DtBP8BU6R8bLM/s1083/Screenshot%202023-05-01%20191004.png" alt="" />
+      <div class="w-full flex-col-center items-center space-y-3  rounded-xl py-7 lg:flex lg:w-80 ml-7 ">
+        <div class="h-40 overflow-hidden rounded-xl bg-yellow-600 ml-6">
+          <img class="mx-auto h-full w-full object-cover" src="https://shopee.co.id/inspirasi-shopee/wp-content/uploads/2020/07/ezgif.com-gif-maker-2021-08-10T081932.319.webp" alt="" />
         </div>
       </div>
-      <div class="w-full flex-col space-y-3 rounded-xl py-4 lg:flex lg:w-80">
+      <div class="w-full flex-col space-y-3 rounded-xl  lg:flex lg:w-80">
         <div class="h-40 overflow-hidden rounded-xl bg-green-600/60">
-          <img class="mx-auto h-full w-full object-cover" src="https://images.bisnis.com/posts/2019/07/06/1120931/309117856_1-14.jpg" alt="" />
+          <img class="mx-auto h-full w-full object-cover" src="https://vncojewellery.com/artikel/wp-content/uploads/2019/05/perhiasan-emas-pernikahan.jpg" alt="" />
         </div>
         <div class="w-full h-40 overflow-hidden rounded-xl bg-pink-600/60">
           <img class="mx-auto h-full w-full object-cover" src="https://cf.shopee.co.id/file/fb9d933d71c05222fff739f44ac7458a" alt="" />
@@ -112,7 +112,7 @@
           </div>
 
           <button class="my-2 flex items-center justify-center rounded-md bg-gray-900 py-3 font-medium text-white">
-            Continue
+            Selanjutnya 
             <svg xmlns="http://www.w3.org/2000/svg" class="ml-4 h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
               <path stroke-linecap="round" stroke-linejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3" />
             </svg>
@@ -121,14 +121,14 @@
       </div>
     </div>
   </div>
-  <div class="relative hidden h-screen select-none flex-col justify-center bg-blue-600 bg-gradient-to-br md:flex md:w-1/2">
+  <div class="relative hidden h-screen select-none flex-col justify-center bg-red-600 bg-gradient-to-br md:flex md:w-1/2 mb-9" >
     <div class="py-16 px-8 text-white xl:w-[40rem]">
-      <span class="rounded-full bg-white px-3 py-1 font-medium text-blue-600">New Feature</span>
-      <p class="my-6 text-3xl font-semibold leading-10">Create animations with <span class="whitespace-nowrap py-2 text-cyan-300">drag and drop</span>.</p>
-      <p class="mb-4">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt necessitatibus nostrum repellendus ab totam.</p>
-      <a href="#" class="font-semibold tracking-wide text-white underline underline-offset-4">Learn More</a>
+      <span class="rounded-full bg-#80BD9E px-7 py-1 font-large text-white-600">New Feature</span>
+      <p class="my-6 text-3xl font-semibold leading-10">Buat Animasi Dengan Kretivitas Mungkin</p>
+      <p class="mb-4">Mulai lah menjadi anak yang kreatif dan cerdas yang berguna bagi bangsa dan negara.</p>
+      <a href="#" class="font-semibold tracking-wide text-white underline underline-offset-4">Selengkapnya >>>> </a>
     </div>
-    <img class="ml-6 w-11/10 max-w-lg rounded-lg object-cover" src="https://img.freepik.com/free-vector/ecommerce-web-page-concept-illustration_114360-8204.jpg?w=740&t=st=1693374100~exp=1693374700~hmac=fa680fc32daaa8a6a6cf52b97c20e26a37082c180994e66e4b75f274b599a05f" />
+    <img class="ml-16 w-11/12 max-w-lg rounded-lg object-cover lg:w-200" src="https://fcfibreglass.com/wp-content/uploads/2021/08/industri-kreatif.jpg" />
   </div>
 </div>
 <br><br>

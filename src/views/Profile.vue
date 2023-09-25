@@ -4,7 +4,7 @@
   <div class="rounded-lg border bg-white px-4 pt-8 pb-10 shadow-lg">
     <div class="relative mx-auto w-36 rounded-full">
       <span class="absolute right-0 m-3 h-3 w-3 rounded-full bg-green-500 ring-2 ring-green-300 ring-offset-2"></span>
-      <img class="mx-auto h-auto w-full rounded-full" src="https://img.freepik.com/free-vector/ecommerce-web-page-concept-illustration_114360-8204.jpg?w=740&t=st=1693374100~exp=1693374700~hmac=fa680fc32daaa8a6a6cf52b97c20e26a37082c180994e66e4b75f274b599a05f" alt="" />
+      <img class="mx-auto h-auto w-full rounded-full" src="https://media.istockphoto.com/id/1300845620/id/vektor/ikon-pengguna-datar-terisolasi-pada-latar-belakang-putih-simbol-pengguna-ilustrasi-vektor.jpg?s=612x612&w=0&k=20&c=QN0LOsRwA1dHZz9lsKavYdSqUUnis3__FQLtZTQ--Ro=" alt="" />
     </div>
     <br>
     <h3 class="font-lg text-semibold text-center leading-6 text-gray-600">Nama : {{ user.name}}</h3>
@@ -22,7 +22,7 @@
       </li>
       <li class="flex items-center py-3 text-sm">
         <span>TTL:</span>
-        <span class="ml-auto">America, 07-03-2006</span>
+        <span class="ml-auto">Jerman, 07-03-2006</span>
       </li>
        <li class="flex  py-3 text-sm text-right">
         <span>Alamat:</span>

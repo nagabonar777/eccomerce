@@ -12,6 +12,7 @@ import Categori from "../views/Categori.vue"
 import Checkout from "../views/Checkout.vue"
 import Profile from "../views/Profile.vue"
 import Order from "../views/Order.vue"
+
 import store from "../store"
 
 function cekToken(to, from, next) {
@@ -32,6 +33,7 @@ const routes = [
         component: Home,
         meta: {requireLogin: true}
     },
+   
       {
         path: "/login",
         name: "Login",
